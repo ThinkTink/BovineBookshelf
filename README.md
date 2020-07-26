@@ -4,7 +4,7 @@ This application is a virtual bookshelf showing a collection of books about cows
 Try it out live at [https://thinktink.github.io/BovineBookshelf/](https://thinktink.github.io/BovineBookshelf/)
 
 #### Future Improvements
-A more robust, full-stack version using Node, Express, and MySQL is in the works.
+A more robust, full-stack version using Node, Express, and MySQL is available at [https://github.com/ThinkTink/BovineBookshelf2](https://github.com/ThinkTink/BovineBookshelf2).
 
 #### Credits
 Favicon from [Favicon.io](https://favicon.io/emoji-favicons/cow-face/). Homepage image by [Andy Kelly](https://unsplash.com/@askkell) on [Unsplash](https://unsplash.com/).
